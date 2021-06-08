@@ -1,3 +1,4 @@
 Pedro Henrique Teixeira e Silva
-Estudante na UFRN - IMD
-Interesses em voleibol, programação, jogos virtuais, etc...
+
+Student at UFRN -IMD  
+I like volleyball, programing, computer games, etc...
