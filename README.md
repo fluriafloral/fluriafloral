@@ -1,5 +1,5 @@
 # Pedro Henrique 
-Back-end Developer specialized in Java <br>Currently developing an accomodation management system for Manero Hostel<br>Gym enthusiast, cyclist and amateur volleyball player
+Back-end Developer specialized in Java <br>Currently developing an accommodation management system for Manero Hostel<br>Gym enthusiast, cyclist and amateur volleyball player
 
 
 ## 🌐 Socials:
